@@ -4,9 +4,9 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/ManufacturingOpen?style=social)](https://www.reddit.com/r/ManufacturingOpen/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MfgOpen?style=social)](https://twitter.com/mfgopen)
 
-Welcome to our GitHub organization!
+## ManufacturingOpen :heart: Open Source
 
-ManufacturingOpen :heart: Open Source
+Welcome to our GitHub organization!
 
 Our mission is to usher in a new era of open and accessible engineering and manufacturing engagement, education and resources.
 
