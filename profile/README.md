@@ -14,8 +14,8 @@ We believe that the best engagement comes from practical, hands-on and interacti
 
 We seek to accomplish this by:
 
-:books: Publishing written and recorded educational content for beginners that complement advanced physical and virtual workshops.
+:books: **Publishing written and recorded educational content for beginners that complement physical and virtual workshops.**
 
-:computer: Providing open-source alternatives for key, fundamental digital technologies for engineering and manufacturing.
+:computer: **Providing open-source alternatives for key, fundamental digital technologies for engineering and manufacturing.**
 
-:handshake: Supporting other professional engineering organizations and open-source efforts that overlap with our mission.
+:handshake: **Supporting other professional engineering organizations and open-source efforts that overlap with our mission.**
