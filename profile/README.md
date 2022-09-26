@@ -10,7 +10,7 @@ Welcome to our GitHub organization!
 
 Our mission is to usher in a new era of open and accessible engineering and manufacturing engagement, education and resources.
 
-We believe that the best engagement comes from practical, hands-on and interactive opportunities and projects.
+We believe that the best engagement comes from practical, hands-on and interactive opportunities and projects along with mutual support.
 
 We seek to accomplish this by:
 
@@ -18,4 +18,12 @@ We seek to accomplish this by:
 
 :computer: **Providing open-source alternatives for key, fundamental digital technologies for engineering and manufacturing.**
 
+:classical_building: **Develop freely-accessible, open technical standards that compete with International Organization for Standardization (ISO) standards.**
+
 :handshake: **Supporting other professional engineering organizations and open-source efforts that overlap with our mission.**
+
+## Code of Conduct
+
+ManufacturingOpen sees value in everyone and we hope to build a welcoming community to contribute, share and grow.
+
+Please review our current [Code of Conduct](https://github.com/MfgOpen/code-of-conduct).
