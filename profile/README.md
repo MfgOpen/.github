@@ -22,7 +22,7 @@ We seek to accomplish this by:
 
 :handshake: **Supporting other professional engineering organizations and open-source efforts that overlap with our mission.**
 
-## Code of Conduct
+## :open_hands: Code of Conduct
 
 ManufacturingOpen sees value in everyone and we hope to build a welcoming community to contribute, share and grow.
 
