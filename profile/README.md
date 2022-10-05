@@ -18,7 +18,7 @@ We seek to accomplish this by:
 
 :computer: **Providing open-source alternatives for key, fundamental digital technologies for engineering and manufacturing.**
 
-:classical_building: **Develop freely-accessible, open technical standards that compete with International Organization for Standardization (ISO) standards.**
+:classical_building: **Develop freely-accessible, open technical standards that compete with International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC) standards.**
 
 :handshake: **Supporting other professional engineering organizations and open-source efforts that overlap with our mission.**
 
